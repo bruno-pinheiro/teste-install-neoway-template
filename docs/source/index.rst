@@ -1,4 +1,4 @@
-Welcome to project's documentation!
+Welcome to teste_install_neoway_template's documentation!
 ==========================================
 
 .. toctree::
