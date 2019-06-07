@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/bruno-pinheiro/teste-install-neoway-template.svg?branch=master)](https://travis-ci.com/bruno-pinheiro/teste-install-neoway-template)
+
 # [`teste-install-neoway-template`]
 > Simple project description.
 
